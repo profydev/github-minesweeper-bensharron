@@ -13,6 +13,9 @@
     "flag C4",
     "flag H6",
     "flag H4",
-    "flag H5"
+    "flag H5",
+    "clear C3",
+    "clear D3",
+    "clear E3"
   ]
 }
